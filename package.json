@@ -1,0 +1,15 @@
+{
+  "name": "aegis",
+  "version": "1.0.0",
+  "description": "A clever bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CodingEnzyme",
+  "license": "ISC",
+  "dependencies": {
+    "cleverbot.io": "^1.0.4",
+    "discord.js": "^11.3.2"
+  }
+}
