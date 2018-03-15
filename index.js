@@ -1,7 +1,6 @@
 const Discord = require("discord.js");
 const TOKEN = "NDIyODU2NDMyMDc4MDI4ODEw.DYmaTA.ahLw-xBPkTJMlMAIreeRMAnqUKc";
 const PREFIX = "<"
-var readline = require('readline-sync');
 var fs = require('fs');
 
 var bot = new Discord.Client();
